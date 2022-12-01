@@ -1,3 +1,1 @@
-# senai-versoes-colaboracoes
-# senai-versoes-colaboracoes
-# senai-versoes-colaboracoes
+# Exemplo pra treinamento
